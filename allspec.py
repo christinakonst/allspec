@@ -3,7 +3,7 @@
 """
 Created on Fri Feb  8 11:29:04 2019
 
-@author: christina
+@author: Christina
 """
 
 #Libraries for plotting
