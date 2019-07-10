@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[9]:
-
-
-
-
 #Libraries for plotting
 import matplotlib
 import matplotlib.pyplot as plt
@@ -376,16 +371,4 @@ for s in range(0,Nspec):
     plt.savefig("/home/christina/Desktop/QSOs/Figures/"+ names[s] + '.pdf')        #save all figures as pdf 
     plt.show()
 list.close()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
