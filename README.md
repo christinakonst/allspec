@@ -1,3 +1,3 @@
 # allspec
-Script for applying dust reddening corrections and plotting all the spectra.
+Applying dust reddening corrections and plotting all the QSO spectra.
 Python and Jupyter notebook.
